@@ -1,0 +1,7 @@
+código en  ctrl + shift + p:
+preference: open workspace settings (JSON)
+
+
+"python.analysis.extraPaths": [
+        "./qubic/scripts/FrequencyMapMaking/src"
+    ]
